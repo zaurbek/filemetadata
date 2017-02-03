@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Bahiana|Cabin');
+.basic {
+    margin: 50px auto;
+    height: 300px;
+    width: 500px;
+}
+
+.h1 {
+    margin-top: -5px; font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+a:hover {
+    text-decoration: none;
+}
+.btn {
+    font-family: 'Cabin', sans-serif;
+}
+.submit {
+    margin-top: 90px;
+    margin-left: 180px;
+}
+
+.btn-info {
+    width: 460px;
+}
